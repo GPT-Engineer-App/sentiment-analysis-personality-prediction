@@ -1,0 +1,11 @@
+big-five-personality-prediction/
+├── README.md
+├── requirements.txt
+├── dataset/
+│   └── big_five_dataset.csv
+├── src/
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── utils.py
+│   └── config.py
+└── .gitignore

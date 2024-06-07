@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.hdf5
+*.log
+*.csv
+*.tsv
+*.json
+*.ckpt
+*.pt
+*.pth
+results/
+logs/
